@@ -15,13 +15,15 @@ This application allows the user to track various workouts. In addition, their w
 * [linkedin](#linked)
 
  <p>License:</p>
-MIT
+<p>MIT</p>
 
 <p>Contributions:</p>
 NONE
 
 <p>Installation</p>
-Fork project then `run npm i` to install dependencies. Then run node server.js OR follow the provided link
+Fork project then `run npm i` to install dependencies. Then run node server.js OR follow the provided link 
+
+[Deployed Link](https://workoutrack.herokuapp.com/)
 
 <p>Usage</p>
 Tracking users workouts and fitness progression. 
@@ -34,3 +36,5 @@ Tracking users workouts and fitness progression.
 <a>https://www.linkedin.com/in/miguel-jimenez-6808381aa</a>
 <p>email address</p>
 (mj@gmail.com)
+
+
